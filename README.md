@@ -1,2 +1,4 @@
 # Flying-boxes-pygame-PyOpenGL-
-A Python practice Ver 3.4.1
+
+a practice done by following a tutorial series by sentdex on youtube
+https://www.youtube.com/watch?v=R4n4NyDG2hI
