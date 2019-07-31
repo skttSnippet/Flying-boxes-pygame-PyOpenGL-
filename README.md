@@ -1,5 +1,5 @@
 # Flying cubes
 
-pygame/pyopengl practice
-![screencap_pygame](https://user-images.githubusercontent.com/24993404/35556009-e4c02adc-0555-11e8-893c-33ea247d6e00.jpg)
+pygame/pyopengl 
+![opengl](https://user-images.githubusercontent.com/24993404/62242787-ce574880-b390-11e9-96df-65cc7d4a89c4.gif)
 
