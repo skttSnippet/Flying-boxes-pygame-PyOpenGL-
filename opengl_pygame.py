@@ -61,20 +61,10 @@ def ranColor():
         rgbl = [random.randint(0, 1), random.randint(
             0, 1), random.randint(0, 1)]
 
-    colors = (
-        tuple(rgbl),
-        tuple(rgbl),
-        tuple(rgbl),
-        tuple(rgbl),
-        tuple(rgbl),
-        tuple(rgbl),
-        tuple(rgbl),
-        tuple(rgbl),
-        tuple(rgbl),
-        tuple(rgbl),
-        tuple(rgbl),
-        tuple(rgbl),
+    colors = tuple(
+        tuple(rgbl) for i in range(0,12)
     )
+    
     return colors
 
 # # create a ground if needed
